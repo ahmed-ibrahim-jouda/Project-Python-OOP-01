@@ -17,9 +17,9 @@ while True:
 
     print("_____Confrontation_____")
     player1.playing()
-    print("ـــــــــــــــــــــــــــــــــ")
+    print("ـــــــــــــــــــــــ")
     player2.playing()
-    print("_____**  End Confrontation **_____\n")
+    print("_____End Confrontation_____\n")
     if player1.stop_loop() :
         print("THE Weener IS",player2.Cartier_name)
         break
